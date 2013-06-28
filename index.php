@@ -1,10 +1,19 @@
 <!doctype html>
 <html>
+<<<<<<< HEAD
 	<head>
+=======
+  <head>
+>>>>>>> d24048bc8946b1a258a45aa4157f8b451d654707
 		<title>Vezbanje PHP MySql</title>
 	
 	<style>
 	ul {
+<<<<<<< HEAD
+=======
+		width: 400px;
+		margin: 0 auto;
+>>>>>>> d24048bc8946b1a258a45aa4157f8b451d654707
 		list-style-type: none;
 	}
 	li {
@@ -14,14 +23,34 @@
 	}
 	.clear {
 		clear:both;
+<<<<<<< HEAD
 	}
 	td {
 		padding: 10px 80px;
+=======
+		margin-bottom: 20px;
+	}
+	table {
+		width: 100%;
+
+	}
+
+	td {
+		padding: 3px 20px;
+		border: 1px solid #ccc;
+		margin: 0;
+		text-align: center;
+
+>>>>>>> d24048bc8946b1a258a45aa4157f8b451d654707
 	}
 
 	td img {
 		height: 100px;
 	}
+<<<<<<< HEAD
+=======
+
+>>>>>>> d24048bc8946b1a258a45aa4157f8b451d654707
 	</style>
 	</head>
 
@@ -60,4 +89,8 @@
 		</tbody>
 	</table>
 	</body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> d24048bc8946b1a258a45aa4157f8b451d654707
